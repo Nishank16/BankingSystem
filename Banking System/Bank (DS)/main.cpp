@@ -564,7 +564,7 @@ int main()
   cout<<"                                                                      __/ |                                        __/ |                       "<<endl;
   cout<<"                                                                     |___/                                        |___/                        "<<endl;
   cout<<"                                                                                                                                               "<<endl;
-  cout<<"                                                            Made by M.ROHAN FAROOQUI                                                           "<<endl;
+  cout<<"                                                            Made by Nishank Sahu                                                          "<<endl;
   cout<<"\n"<<endl;
   cout<<"                                                       ********************************"<<endl;
   cout<<"                                                       **********LOGIN||PANEL**********"<<endl;
